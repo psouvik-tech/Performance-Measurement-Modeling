@@ -1,0 +1,3 @@
+Sunspots.csv
+TSC_Sunset_NN.ipynb
+TSC_Sunset_StatsForecast_FINAL.ipynb
