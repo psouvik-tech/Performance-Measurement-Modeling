@@ -1,0 +1,3 @@
+AEP_hourly_sorted.csv
+TSC_EnergyConsumption_NN.ipynb
+TSC_EnergyConsumption_StatsForecast.ipynb
