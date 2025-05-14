@@ -1,1 +1,2 @@
 # Performance-Measurement-Modeling
+These models were tested using the Spiking Neural Network (SNN), Hybrid DNN, and LSTM codes provided in the Jupyter Notebooks provided. These files also come with their respective datasets. Google Colab is needed to run the notebooks. Prior to running the notebooks, make sure your mount your Google Drives to your own directory and if possible create and activate a virtual environment in your own machine. 
